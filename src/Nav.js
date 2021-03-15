@@ -1,6 +1,5 @@
 import React from 'react';
 import classes from './Nav.module.css';
-
 const Nav = (props) => {
     return ( 
         <div>
@@ -12,7 +11,7 @@ const Nav = (props) => {
 
             <img   
                 className={classes.nav_avatar}
-                src='https://pbs.twing.com/profile_imgages/'
+                src='https://upload.wikimedia.org/wikipedia/commons/0/0b/Netflix-avatar.png'
                 alt='Avatar'
             />
         </div>
